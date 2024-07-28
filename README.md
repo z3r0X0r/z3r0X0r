@@ -32,5 +32,4 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity and constantly 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z3r0X0r&layout=compact&theme=radical)
 
-Thanks for stopping by! Happy hacking! 🚀
-
+Thanks for stopping by! Happy Learning! 🚀
