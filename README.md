@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity and constantly 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Bug Hunter](https://camo.githubusercontent.com/dcc9bdbe0eddf51859af4ccfea1a023f021d6c8e13eb24f271559bd0887f78a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4275675f48756e74696e672d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d62756763726f7764266c6f676f436f6c6f723d7768697465)
 
 ## 📫 Get in Touch
 
