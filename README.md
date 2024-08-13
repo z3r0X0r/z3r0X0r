@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity and constantly 
 - 🔐 **CTF Player**: Enthusiastic participant in CTF competitions, solving challenges, and learning new techniques.
 - 🔎 **Bug Hunter**: Focused on discovering misconfigurations and vulnerabilities in websites.
 - 💻 **Developer**: Creating projects and tools to aid in cybersecurity research and web development.
-- 📚 **Learner**: Recently diving into **HTML**, **CSS**, **JavaScript**, and **Python** to enhance my web development skills and make life easier.
+- 📚 **Learner**: Recently diving into **HTML**, **CSS**, **JavaScript**, **Python** and **GO** to enhance my web development skills and make life easier.
 - 🐧 **Linux Enthusiast**: Proficient in Linux, leveraging its power for cybersecurity tasks and development.
 
 ## 🛠️Skills & Tools
@@ -16,6 +16,8 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity and constantly 
 ![CSS3](https://camo.githubusercontent.com/472c222e8f240a48ae51cd9b082a1b857be809dcd851a25150890c2da50c13a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
 ![JavaScript](https://camo.githubusercontent.com/84372c7d2f1a7308844360ecad82d49b3f6cbc068a0c5e31aeea6ca5344b77ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
 ![Python](https://camo.githubusercontent.com/b33b61504018f44fcc8b0590875398c2612f7348ccd9443ba0e424cde21048a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2532302d2532333134333534432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
 ![Linux](https://camo.githubusercontent.com/7eefb2ba052806d8a9ce69863c2eeb3b03cd5935ead7bd2e9245ae2e705a1adf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b)
 ![Git](https://camo.githubusercontent.com/f38298638f10774e1f0205a1111dff4a7675c0ed8600356f28e8276c2bab8235/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
 ![GitHub](https://camo.githubusercontent.com/a68fdafff2c458721dd1423490517ca3e726b7e3d21eac37ae9d308858a83348/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)
