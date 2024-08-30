@@ -22,9 +22,6 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity and constantly 
 ### Hack The Box
 [![Hack The Box](https://www.hackthebox.com/badge/image/1663122)](https://app.hackthebox.com/users/1663122)
 
-### HackViser
-[![HackViser](https://hackviser.com/badge/image/z3r0X0r)](https://app.hackviser.com/profile/z3r0X0r)
-
 ## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-aariz-rahman-5974622aa)
