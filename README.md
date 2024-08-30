@@ -17,8 +17,7 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity and constantly 
 ## 📈 CTF Ranks
 
 ### TryHackMe
-<img src="https://tryhackme-badges.s3.amazonaws.com/z3r0X0r.png" alt="TryHackMe">
-
+<script src="https://tryhackme.com/badge/2473997"></script>
 ### Hack The Box
 <img src="https://www.hackthebox.com/badge/image/z3r0X0r" alt="Hack The Box Rank"/>
 ## 📫 Get in Touch
