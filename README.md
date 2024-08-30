@@ -13,6 +13,14 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity and constantly 
 ## 🛠️Skills & Tools
 
 <img src="https://img.shields.io/badge/CTF%20Player-000000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="CTF Player"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white" alt="Terminal"/> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/> <img src="https://img.shields.io/badge/Burp%20Suite-FF8800?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/> <img src="https://img.shields.io/badge/Bug%20Hunter-000000?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bug Hunter"/>
+
+## 📈 CTF Ranks
+
+### TryHackMe
+<img src="https://tryhackme-badges.s3.amazonaws.com/z3r0X0r.png" alt="TryHackMe">
+
+### Hack The Box
+<img src="https://www.hackthebox.com/badge/image/z3r0X0r" alt="Hack The Box Rank"/>
 ## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-aariz-rahman-5974622aa)
