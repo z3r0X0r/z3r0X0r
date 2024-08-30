@@ -17,9 +17,8 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity and constantly 
 ## 📈 CTF Ranks
 
 ### TryHackMe
-<script src="https://tryhackme.com/badge/2473997"></script>
-### Hack The Box
-<img src="https://www.hackthebox.com/badge/image/z3r0X0r" alt="Hack The Box Rank"/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/z3r0X0r.png" alt="TryHackMe">
+
 ## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-aariz-rahman-5974622aa)
