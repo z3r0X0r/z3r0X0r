@@ -19,6 +19,9 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity and constantly 
 ### TryHackMe
 <img src="https://tryhackme-badges.s3.amazonaws.com/z3r0X0r.png" alt="TryHackMe">
 
+### Hack The Box
+[![Hack The Box](https://www.hackthebox.com/badge/image/1663122)](https://app.hackthebox.com/users/1663122)
+
 ## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-aariz-rahman-5974622aa)
