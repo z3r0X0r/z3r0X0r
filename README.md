@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity and constantly 
 ## 📈 CTF Ranks
 
 ### TryHackMe
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2473997" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/z3r0X0r.png" alt="Your Image Badge" />
 
 ### Hack The Box
 [![Hack The Box](https://www.hackthebox.com/badge/image/1663122)](https://app.hackthebox.com/users/1663122)
