@@ -19,7 +19,7 @@
 ## `cat /etc/profile`
 
 ```yaml
-alias       : 0x0meosec
+alias       : 0x0meowsec
 role        : Security Researcher & Bug Bounty Hunter
 focus       : [ Web Security, API Abuse, Logic Flaws, Misconfigurations ]
 learning    : [ JavaScript, Python, Go ]
